@@ -1,2 +1,2 @@
 -lpha
-=====
+mkdir ~/@lpha 
